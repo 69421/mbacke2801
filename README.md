@@ -2,7 +2,7 @@
 
 Bienvenue sur mon GitHub !
 
-Je suis un étudiant passionné par l’**analyse de données**, la **recherche opérationnelle**, et l’**la finance quantitative**. J’explore actuellement **Python** et je construis petit à petit un portfolio de projets personnels dans le cadre de mes études et de mes apprentissages.
+Je suis un étudiant passionné par l’**analyse de données**, la **recherche opérationnelle**, et l’**la finance quantitative**. J’explore actuellement **Python** et **R**, et je construis petit à petit un portfolio de projets personnels dans le cadre de mes études et de mes apprentissages.
 
 ---
 
