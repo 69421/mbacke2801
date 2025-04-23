@@ -2,13 +2,13 @@
 
 Bienvenue sur mon GitHub !
 
-Je suis un étudiant passionné par l’**analyse de données**, la **recherche opérationnelle**, et l’**la finance quantitative**. J’explore actuellement **Python** et **R**, et je construis petit à petit un portfolio de projets personnels dans le cadre de mes études et de mes apprentissages.
+Je suis un étudiant passionné par l’**analyse de données**, la **recherche opérationnelle**, et **la finance quantitative**. J’explore actuellement **Python** et **R**, et je construis petit à petit un portfolio de projets personnels dans le cadre de mes études et de mes apprentissages.
 
 ---
 
 ## Ce que je fais actuellement :
 
-- Étudiant en classe préparatoire ECS2, futur étudiant en école de commerce
+- Étudiant en licence 2 au Programme Grandes Écoles au CESAG
 - En formation sur **IBM Data Analyst Professional Certificate**
 - Je m’initie à la **recherche opérationnelle** et à l’optimisation
 - Je développe des **scripts Python** et des **cas pratiques** en Business Analytics
